@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Mukta', sans-serif;
+}
+
+span {
+    justify-content: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.game-screen {
+    margin-top: 1%;
+    align-items: center;
+    display: flex;
+    flex-direction:column;
+}
+.score-board {
+    width: fit-content;
+}
+.grid {
+    width: 825px;
+    height: 827px;
+}
+img {
+    padding-left: 5px;
+    border-radius: 10px;
+}
